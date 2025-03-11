@@ -1,6 +1,6 @@
-#Notes  
+# Notes  
 
-##Key Acronyms  
+## Key Acronyms  
 
 CDN: Content Delivery Network  
 Edge servers  
